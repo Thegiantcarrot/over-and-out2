@@ -1,0 +1,20 @@
+{
+    "name": "Over-and-out",
+    "description": "V0.1",
+    "type": "BETA project",
+    "license": "alex-algorithm.com",
+    "authors": [
+        {
+            "name": "Alex Fife",
+            "email": "alexhfife@outlook.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4|^8.0",
+    },
+    
+    },
+    "scripts": {
+        "test": "phpunit"
+    }
+}
